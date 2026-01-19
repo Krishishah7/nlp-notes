@@ -7,8 +7,8 @@ The notes focus on practical understanding, common NLP techniques, and real-worl
 ## Topics Covered
 - Text preprocessing
 - POS tagging
+- Hindi POS tagging using Stanza
 - Word frequency analysis
 - Sentiment analysis
-- Multilingual NLP
 
 These notes are created for revision, clarity, and interview preparation.
